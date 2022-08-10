@@ -7,8 +7,11 @@ This is a web application that uses the REACT hooks, useEffect and useReduce, to
 How to Run:
 
 go to https://github.com/rithvik1139/fetch-and-render
+
 copy git repository
+
 open standalone3.html file in web browser
+
 Future Improvements:
 
 The next step in this repository would be to add additional functionality to the fetch and render activity. Other improvements include perhaps using multiple different data sources.
